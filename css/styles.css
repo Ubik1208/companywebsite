@@ -90,7 +90,7 @@ span{
 .mission{
     display: flex;
     height: 40rem;
-    background-image: url(./images/bruce-mars-sleep-unsplash.jpeg);
+    background-image: url(images/bruce-mars-sleep-unsplash.jpeg);
     background-position: bottom;
     background-size: cover;
     background-repeat: no-repeat;
@@ -210,7 +210,7 @@ span{
 .contact{
     display: flex;
     height: 40rem;
-    background-image: url(./images/geojango-maps-unsplash.jpeg);
+    background-image: url(images/geojango-maps-unsplash.jpeg);
     background-position: bottom;
     background-size: cover;
     background-repeat: no-repeat;
