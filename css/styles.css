@@ -196,6 +196,12 @@ span{
     .team-box{
         width: auto;
     }
+    
+    .team-box img{
+    width: 80%;
+    height: auto;
+
+}
    
     footer{
         font-size: 0.8rem;
