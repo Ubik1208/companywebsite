@@ -198,9 +198,9 @@ span{
     }
     
     .team-box img{
-    width: 80%;
-    height: auto;
-    overflow: hidden;
+        width: 100%;
+        height: auto;
+        overflow: hidden;
 }
    
     footer{
